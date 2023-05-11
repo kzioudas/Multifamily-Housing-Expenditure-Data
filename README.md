@@ -52,7 +52,7 @@ Clone the repository and navigate to the project directory.
 
 Place the data.csv file in the project directory.
 
-Run the main.py file using a Python interpreter.
+Run the  file using a Python interpreter.
 
 Enter the start date and end date of the desired time period in the format dd/mm/yyyy.
 
